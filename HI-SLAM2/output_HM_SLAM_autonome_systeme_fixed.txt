@@ -1,0 +1,17 @@
+060525_SLAM_1_2_video outputs/HM_SLAM_autonome_systeme
+HI-SLAM2 processing already completed for 060525_SLAM_1_2_video
+- full ATE: 437.3168
+- psnr : 15.516, ssim: 0.633, lpips: 0.603
+Found 446 depth and 446 color files for TSDF integration
+TSDF mesh already exists: outputs/HM_SLAM_autonome_systeme/060525_SLAM_1_2_video/tsdf_mesh_w2.0.ply
+- 3D reconstruction evaluation skipped (no valid TSDF mesh)
+- 3D reconstruction: 3D Gaussian Splatting completed successfully
+- 3DGS mesh: outputs/HM_SLAM_autonome_systeme/060525_SLAM_1_2_video/3dgs_final.ply
+- TSDF mesh: outputs/HM_SLAM_autonome_systeme/060525_SLAM_1_2_video/tsdf_mesh_w2.0.ply
+
+
+=== Final Results (averaged over 1 sequences) ===
+ATE full: 	 437.3168
+PSNR: 	 15.5165
+SSIM: 	 0.6331
+LPIPS: 	 0.6035
