@@ -2,7 +2,7 @@ inherit_from: ./configs/TUM_RGBD/tum.yaml
 
 scene: freiburg1_desk2
 only_tracking: False
-wandb: True
+wandb: False
 
 data:
   input_folder: datasets/TUM_RGBD/rgbd_dataset_freiburg1_desk2

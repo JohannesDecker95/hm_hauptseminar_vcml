@@ -1,7 +1,7 @@
 inherit_from: configs/Replica/replica.yaml
 scene: office1
 only_tracking: False
-wandb: True
+wandb: False
 
 tracking:
   frontend:
