@@ -20,6 +20,8 @@
   </strong></p>
     
 
+## Hardware
+The experiments performed with GlORIE-SLAM for the seminar paper were run on an NVIDIA RTX A6000 GPU that has a Compute Capability of 8.6. If you want to use another GPU, it is recommended to use a NVIDIA GPU with a Compute Capability of 8.6 (see https://developer.nvidia.com/cuda-gpus).
 
 ## Installation
 1. Creating a new conda environment using the provided `glorie_env.yaml` file.
